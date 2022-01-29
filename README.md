@@ -1,1 +1,1 @@
-# henahochi-feature-service
+# golang-clean-arch
